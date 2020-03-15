@@ -1,0 +1,22 @@
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\obj\Debug\QR Reader and Browser.csprojAssemblyReference.cache
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\obj\Debug\QR_Reader_and_Browser.Form1.resources
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\obj\Debug\QR_Reader_and_Browser.Properties.Resources.resources
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\obj\Debug\QR Reader and Browser.csproj.GenerateResource.cache
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\QR Reader and Browser.exe.config
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\QR Reader and Browser.exe
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\QR Reader and Browser.pdb
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\AForge.dll
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\AForge.Video.dll
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\zxing.dll
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\zxing.presentation.dll
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\AForge.xml
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\AForge.Video.xml
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\zxing.pdb
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\zxing.xml
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\zxing.presentation.pdb
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\bin\Debug\zxing.presentation.xml
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\obj\Debug\QR Reader and Browser.csproj.CopyComplete
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\obj\Debug\QR Reader and Browser.exe
+C:\Users\ADM\Downloads\QR-CamReader-and-WebBrowser-df744affccd44b5ab43bd4a75e5759dfc0137392\QR Reader and Browser\obj\Debug\QR Reader and Browser.pdb
